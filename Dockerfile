@@ -1,0 +1,1 @@
+FROM ghcr.io/mmguero-dev/jekyll:latest as docbuild
